@@ -1,6 +1,6 @@
 # Resources
 ## Hiking Resources
-Below is a random collection of website I've found helpful in my time hiking. Note that I am not directly affiliated with any of the organizations/companies below; I just like them. None of the links below are affiliate links.
+Below is a random collection of websites I've found helpful in my time hiking. Note that I am not directly affiliated with any of the organizations/companies below; I just like them. None of the links below are affiliate links.
 ### Parks/Properties
 
 - [Massachusetts Department of Conservation and Recreation: Find a Park](https://www.mass.gov/info-details/find-a-park)
