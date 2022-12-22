@@ -33,6 +33,7 @@ Below is a random collection of websites I've found helpful in my time hiking. N
 - [Garmin Forerunner 245 Music Watch](https://www.garmin.com/en-US/p/646690)
 - [GoPro Hero11 Black](https://gopro.com/en/us/shop/cameras/hero11-black/CHDHX-111-master.html)
 - [Joby TelePod SPORT Tripod](https://joby.com/us-en/telepod-sport-jb01657-bww/)
+- [SailVideoSystem 3rdPersonView Shoulder Mount](https://www.sailvideosystem.com/products/3rdpersonview-shoulder-mount-for-gopro-max-and-others)
 - [Platinum Extreme Accessory Kit](https://www.bestbuy.com/site/platinum-extreme-accessory-kit-for-gopro-action-cameras/6402471.p)
 
 ## Website Resources
