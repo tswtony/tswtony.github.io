@@ -1,7 +1,7 @@
 # Why go outdoors?
 As an avid outdoorsman and conservationist, I sometimes get people asking why I care so much about nature, or why I want to share my love of the outdoors with everyone else. Well, there isn't an easy answer to that, but I'll do my best to break it down.
 ## Nature is beautiful
-The world we live in is fraught with anger, uglieness, and hate. Being outside the confines of "civilization" (such as it is) reminds us that this world has so much more to offer than what we see on the news.
+The world we live in is fraught with anger, ugliness, and hate. Being outside the confines of "civilization" (such as it is) reminds us that this world has so much more to offer than what we see on the news.
 ## Nature is refreshing
 When I'm on the trail, I have the opportunity to let go of my stress and just live in the moment&mdash;much more so than anywhere else. It's a mental "reset button" that I desperately need at the end of a long work week.
 ## Nature is cool!
