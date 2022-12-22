@@ -1,0 +1,29 @@
+site_name: Trailside With Tony
+theme:
+  name: material
+  palette:
+    accent: amber
+  icon:
+    logo: material/leaf-circle
+  favicon: images/favicon.png
+extra_css:
+  - stylesheets/override.css
+extra:
+  social:
+  - icon: simple/mastodon
+    link: https://mastodon.lol/@tswtony
+  - icon: simple/twitter
+    link: https://nitter.net/tswtony/
+  - icon: simple/youtube
+    link: https://youtube.com/@tswtony
+plugins:
+  - mkdocs-video:
+      css_style:
+        height: auto
+        min-height: 22.172vw
+        width: 100%
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
