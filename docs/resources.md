@@ -7,6 +7,7 @@ Below is a random collection of websites I've found helpful in my time hiking. N
 ### Parks/Properties
 
 - [Massachusetts Department of Conservation and Recreation](https://www.mass.gov/orgs/department-of-conservation-recreation)
+- [Berkshire Natural Resources Council](https://www.bnrc.org/)
 - [Trustees of Reservations](https://thetrustees.org/)
 - [United States National Park Service](https://www.nps.gov/)
 - [America's State Parks](https://www.americasstateparks.org/)
