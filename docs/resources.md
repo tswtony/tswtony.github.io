@@ -12,6 +12,7 @@ Below is a random collection of websites I've found helpful in my time hiking. N
 - [United States National Park Service](https://www.nps.gov/)
 - [America's State Parks](https://www.americasstateparks.org/)
 - [Organic Maps](https://organicmaps.app/) (GPS-based smartphone navigation app)
+- [Interactive MA state park map](https://www.google.com/maps/d/viewer?mid=1Cnr7kUAcMZY2jEA9duiT0CogcDI) (Google Maps)
 
 ### Gear
 
