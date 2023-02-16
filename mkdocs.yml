@@ -11,7 +11,7 @@ extra_css:
 extra:
   social:
   - icon: simple/mastodon
-    link: https://mastodon.lol/@tswtony
+    link: https://mastodon.boston/@tswtony
   - icon: simple/twitter
     link: https://nitter.net/tswtony/
   - icon: simple/youtube
