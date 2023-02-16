@@ -7,6 +7,6 @@ I go into more detail on my [Why go outdoors?](why) page, but the short version 
 ## Socials!
 You can find me on social media at the following locations:
 
-- <a rel="me" href="https://mastodon.lol/@tswtony">:simple-mastodon: @tswtony@&#8203;mastodon.lol</a>
+- <a rel="me" href="https://mastodon.boston/@tswtony">:simple-mastodon: @tswtony@&#8203;mastodon.boston</a>
 - [:simple-twitter: @tswtony](https://nitter.net/tswtony/) (archive only)
 - [:simple-youtube: Trailside with Tony](https://youtube.com/@tswtony)
