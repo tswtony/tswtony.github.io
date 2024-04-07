@@ -23,7 +23,7 @@ Below is a random collection of websites I've found helpful in my time hiking. N
 
 ### Advocacy
 
-- [Alt National Park Service](https://altnps.org/)
+- [Our Parks](https://ourparks.org/) (formerly Alt US National Park Service)
 - [Leave No Trace](https://lnt.org/)
 - [National Audubon Society](https://www.audubon.org/)
 - [The Nature Conservancy](https://www.nature.org/)
@@ -34,8 +34,8 @@ Below is a random collection of websites I've found helpful in my time hiking. N
 
 - Coleman MAX 2L Hydration Backpack (no longer manufactured)
 - [Camelbak Crux 2L Reservoir](https://www.camelbak.com/recreation/shop/reservoirs/crux-2l-reservoir/CB-1229.html)
-- [Ob&omacr;z Firebrand II Low Waterproof Boots](https://obozfootwear.com/en-us/product/mens-firebrand-ii-low-waterproof)
-- [Superfeet Trailblazer Comfort Insoles](https://www.superfeet.com/en-us/trailblazer-comfort)
+- [Ob&#333;z Firebrand II Low Waterproof Boots](https://obozfootwear.com/en-us/product/mens-firebrand-ii-low-waterproof)
+- [Superfeet Hike Support Insoles](https://www.superfeet.com/en-us/hike-support) (formerly Trailblazer Comfort)
 - Casual day hiking: [Rockay Flare Quarter Socks](https://rockay.com/products/flare-quarter-run-socks)
 - Longer distance hiking: [Smartwool Hike Classic Extra Cushion Socks](https://www.smartwool.com/shop/mens-hiking-socks/hike-classic-edition-extra-cushion-crew-socks-socks-sw013100)
 - [Garmin Forerunner 245 Music Watch](https://www.garmin.com/en-US/p/646690)
@@ -44,7 +44,6 @@ Below is a random collection of websites I've found helpful in my time hiking. N
 
 - [GoPro Hero11 Black Action Camera](https://gopro.com/en/us/shop/cameras/hero11-black/CHDHX-111-master.html)
 - [Joby TelePod SPORT Tripod](https://joby.com/us-en/telepod-sport-jb01657-bww/)
-- [SailVideoSystem 3rdPersonView Shoulder Mount](https://www.sailvideosystem.com/products/3rdpersonview-shoulder-mount-for-gopro-max-and-others)
 - [Platinum Extreme Accessory Kit](https://www.bestbuy.com/site/platinum-extreme-accessory-kit-for-gopro-action-cameras/6402471.p)
 - [DaVinci Resolve 18](https://www.blackmagicdesign.com/products/davinciresolve/)
 
