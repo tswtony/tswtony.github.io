@@ -13,7 +13,7 @@ extra:
   - icon: simple/mastodon
     link: https://mastodon.boston/@tswtony
   - icon: simple/twitter
-    link: https://nitter.net/tswtony/
+    link: https://nitter.poast.org/tswtony
   - icon: simple/youtube
     link: https://youtube.com/@tswtony
 plugins:
