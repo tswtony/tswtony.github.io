@@ -20,7 +20,7 @@ Monument Mountain has an extensive history in both indigenous and American cultu
 I cannot recommend Monument Mountain highly enough. Beginner and experienced hikers alike will find this to be a challenging hike, but well worth it. The views alone are incredible, but when combined with the rewarding hike it's a great, if short, hike in the Berkshires.
 
 - :material-hiking: Hikeability: 8/10
-- :material-human-wheelchair: Accessibility: 6/10
+- :material-human-wheelchair: Accessibility: 5/10
 - :material-leaf: Naturality: 7/10
 - :fontawesome-solid-mountain: Scenery: 10/10
 - :fontawesome-regular-face-tired: Difficulty: 6/10
