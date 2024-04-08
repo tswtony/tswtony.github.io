@@ -19,7 +19,7 @@ The Ashintully Gardens appear to be relatively unmaintained. It's an interesting
 - :material-human-wheelchair: Accessibility: 5/10
 - :material-leaf: Naturality: 3/10
 - :fontawesome-solid-mountain: Scenery: 7/10
-- :fontawesome-regular-face-tired: Difficulty: 5/10
+- :fontawesome-regular-face-tired: Difficulty: 4/10
 
 ## More information
 You can read more about Ashintully Gardens on the [Trustees of Reservations](https://thetrustees.org/place/ashintully-gardens/) website.
